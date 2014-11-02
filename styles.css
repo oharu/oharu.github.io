@@ -1,0 +1,11 @@
+body{
+	background: pink;
+	color: green;		
+
+}
+
+#content{
+	width: 500px;
+	background: yellow;
+	margin: auto;
+}
